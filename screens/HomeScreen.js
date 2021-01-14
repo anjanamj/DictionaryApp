@@ -150,16 +150,16 @@ const styles = StyleSheet.create({
 
   tstyle: {
     alignSelf: 'center',
-    marginTop: 90,
+    marginTop: 10,
   },
 
   detailsTitle: {
     alignSelf: 'center',
-    marginTop: 90,
+    marginTop: 10,
   },
 
   detailsContainer: {
     alignSelf: 'center',
-    marginTop: 100, 
+    marginTop: 10, 
   }
 });
